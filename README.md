@@ -4,9 +4,9 @@ Frontend for EAM System, an enterprise fixed asset management system to help ent
 
 :tv:[Video demonstration](https://cloud.tsinghua.edu.cn/f/061cb2f0a5524d9f8a86/) | :open_book:[ Development documentation](https://chushenges.feishu.cn/docx/MWCadJ7XfoxTu7xWXO7cjfxencc)
 
-:mortar_board: Software Engineer Final Project
+:mortar_board: Software Engineering Final Project
 
-:coffee: The frontend uses the React infrastructure and the Antd component library, the backend is based on the Django framework 
+:coffee: The frontend uses the React framework and the Antd component library, and the backend is based on the Django framework 
 
 :hugs: supporting 100k assets and 50k user access operations simultaneously.
 
